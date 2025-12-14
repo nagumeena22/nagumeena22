@@ -4,8 +4,8 @@
 🧠 AI & DS Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 
 </p>
- 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="150px"  />
+
 
 - 🔭 I'm currently working on a **Deep Learning project** **.
 - 🌱 Currently diving deep into **Data Structures and Algorithms** .
