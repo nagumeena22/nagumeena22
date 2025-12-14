@@ -7,7 +7,7 @@
    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="150px"  />
 
 
-- 🔭 I'm currently working on a **Deep Learning project** **.
+- 🔭 I'm currently working on a **Deep Learning project**.
 - 🌱 Currently diving deep into **Data Structures and Algorithms** .
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
