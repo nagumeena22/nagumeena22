@@ -9,7 +9,9 @@
 
 - 🔭 I'm currently working on a **Deep Learning project**.
 - 🌱 Currently diving deep into **Data Structures and Algorithms** .
+- 💻 Currently diving deep into **Full Stack** .
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
+- - 🔭 I'm currently working on a **NLP AND AGENIC AI**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
 - 💬 Ask me about **AI**, **Machine Learning**
 
