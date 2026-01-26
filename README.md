@@ -27,7 +27,7 @@
 
 ---
 [![nagumeena udayappan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagumeena22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+### GitHub Stats:
 
 ### GitHub Stats:
 Here’s a quick snapshot of my **GitHub Activity**, including my contributions, streaks, and the languages I work with the most.
