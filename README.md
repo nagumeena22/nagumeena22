@@ -106,7 +106,7 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 </div>
 
-### I use: 
+### I use: ### 
 
 <div>
    
@@ -117,6 +117,7 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 </div>
 
+I design and collaborate with:
 
 
 <div>
