@@ -13,6 +13,7 @@
 -  Currently diving deep into **Full Stack**
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 🔭 I'm currently working on a **NLP AND AGENTIC AI**.
+- -  Currently diving deep into **N8N**
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
 - 💬 Ask me about **AI**, **Machine Learning**
 
